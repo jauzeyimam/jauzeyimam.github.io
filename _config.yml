@@ -1,0 +1,12 @@
+# Site settings
+title: Jauzey 
+email: jauzey.imam@gmail.com
+description: "Quick!  To the bat-fax!" 
+baseurl: ""
+url: ""
+twitter_username: jawziii
+github_username:  jauzeyimam
+
+# Build settings
+markdown: kramdown
+permalink: pretty
