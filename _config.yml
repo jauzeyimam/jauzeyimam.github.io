@@ -1,9 +1,14 @@
 # Site settings
 title: Jauzey 
 email: jauzey.imam@gmail.com
-description: "Quick!  To the bat-fax!" 
+description: "\"Above all, to watch. 
+To try and understand.  
+To never look away.  
+And never, never to forget.\" 
+
+- Arundhati Roy"
 baseurl: ""
-url: ""
+url: "www.jauzey.com"
 twitter_username: jawziii
 github_username:  jauzeyimam
 
