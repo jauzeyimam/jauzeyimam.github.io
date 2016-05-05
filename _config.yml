@@ -1,6 +1,6 @@
 # Site settings
-title: Jauzey 
-email: jauzey.imam@gmail.com
+title: J 
+email: 
 description: "\"Above all, to watch. 
 To try and understand.  
 To never look away.  
@@ -9,8 +9,8 @@ And never, never to forget.\"
 - Arundhati Roy"
 baseurl: ""
 url: "www.jauzey.com"
-twitter_username: jawziii
-github_username:  jauzeyimam
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
