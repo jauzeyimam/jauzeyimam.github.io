@@ -10,11 +10,11 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 20
 
->One cannot say, 'Oh, I'll go through loss this way, and that will be the result, and I'll apply myself to the task, and I'll endeavor to achieve the resolution of grief that is before me.'' I think one is hit by waves, and that one starts out the day with an aim, a project, a plan, and  nds oneself foiled. One  nds oneself fallen. One is exhausted but does not know why. Something is larger than one 's own deliberate plan, one's own project, one's own knowing and choosing. 
+>One cannot say, 'Oh, I'll go through loss this way, and that will be the result, and I'll apply myself to the task, and I'll endeavor to achieve the resolution of grief that is before me.'' I think one is hit by waves, and that one starts out the day with an aim, a project, a plan, and finds oneself foiled. One finds oneself fallen. One is exhausted but does not know why. Something is larger than one 's own deliberate plan, one's own project, one's own knowing and choosing. 
 
 21
 
->If I lose you, under these conditions, then I not only mourn the loss, but I become inscrut le to myself. Who 'am' I, without you? When we lose some of these ties by which we are constituted, we do not know who we are or what to do. On one level, I think I have lost 'you' only to discover that 'I' have gone missing as well. At another level, perhaps what I have lost 'in' you, that for which I have no ready vocabulary, is a relationality that is composed neither exclusively of myself nor you, but is to be conceived as the tie by which those terms are differentiated and related. 
+>If I lose you, under these conditions, then I not only mourn the loss, but I become inscrutable to myself. Who 'am' I, without you? When we lose some of these ties by which we are constituted, we do not know who we are or what to do. On one level, I think I have lost 'you' only to discover that 'I' have gone missing as well. At another level, perhaps what I have lost 'in' you, that for which I have no ready vocabulary, is a relationality that is composed neither exclusively of myself nor you, but is to be conceived as the tie by which those terms are differentiated and related. 
 
 22
 
@@ -40,7 +40,7 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 26
 
->Although we struggle for rights over our own bodies, the very bodies for which we stru le are not quite ever only our own. The body has its invariably public dimension. Constituted as a social phenomenon in the public sphere, my body is and is not mine. Given over from the start to the world of others, it bears their imprint, is formed within the crucible of social life; only later, and with some uncertainty, do I lay claim to my body as my own, if, in fact, I ever do. 
+>Although we struggle for rights over our own bodies, the very bodies for which we struggle are not quite ever only our own. The body has its invariably public dimension. Constituted as a social phenomenon in the public sphere, my body is and is not mine. Given over from the start to the world of others, it bears their imprint, is formed within the crucible of social life; only later, and with some uncertainty, do I lay claim to my body as my own, if, in fact, I ever do. 
 
 26
 
@@ -68,7 +68,7 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 29
 
->Mindfulness of this vulnerability can become the basis of claims for non-military political solutions, just as denial of this vulnerability through a fantasy of mastery (an institutionalized fantasy of mastery) can fuel the inst ments of war. We cannot, however, will away this vulnerability. We must attend to it, even abide by it, as we begin to think about what politics might be implied by staying with the thought of corporeal vulnerability itself, a situation in which we can be vanquished or lose others. Is there something to be learned about the geopolitical distribution of corporeal vulnerability from our own brief and devastating exposure to this condition? 
+>Mindfulness of this vulnerability can become the basis of claims for non-military political solutions, just as denial of this vulnerability through a fantasy of mastery (an institutionalized fantasy of mastery) can fuel the instruments of war. We cannot, however, will away this vulnerability. We must attend to it, even abide by it, as we begin to think about what politics might be implied by staying with the thought of corporeal vulnerability itself, a situation in which we can be vanquished or lose others. Is there something to be learned about the geopolitical distribution of corporeal vulnerability from our own brief and devastating exposure to this condition? 
 
 29
 
@@ -80,7 +80,7 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 30
 
->A hierarchy of grief could no doubt be enumerated. We have seen it already, in the genre of the obituary, where lives are quic y tidied up and summarized, humanized, usually married, or on the way to be, heterosexual, happy, monogamous. But this is just a sign of another differential relation to life, since we seldom, if ever, hear the names of the thousands of Palestinians who have died by the Israeli military with United States support, or any number of Afghan people, children and adults. Do they have names and faces, personal histories, family, favorite hobbies, slogans by which they live? What defense against the apprehension of loss is at work in the blithe way in which we accept deaths caused by military means with a shrug or with self-righteousness or with clear vindictiveness? To what extent have Arab peoples, predominantly practitioners of Islam, fallen outside the 'human' as it has been naturalized in its 'Western' mold by the contemporary wor ngs of humanism? What are the cultural con­ tours of the human at work here? How do our cultural frames for thin ng the human set limits on the kinds of losses we can avow as loss? After all, if someone is lost, and that person is not someone, then what and where is the loss, and how does mourning take place? 
+>A hierarchy of grief could no doubt be enumerated. We have seen it already, in the genre of the obituary, where lives are quickly tidied up and summarized, humanized, usually married, or on the way to be, heterosexual, happy, monogamous. But this is just a sign of another differential relation to life, since we seldom, if ever, hear the names of the thousands of Palestinians who have died by the Israeli military with United States support, or any number of Afghan people, children and adults. Do they have names and faces, personal histories, family, favorite hobbies, slogans by which they live? What defense against the apprehension of loss is at work in the blithe way in which we accept deaths caused by military means with a shrug or with self-righteousness or with clear vindictiveness? To what extent have Arab peoples, predominantly practitioners of Islam, fallen outside the 'human' as it has been naturalized in its 'Western' mold by the contemporary workings of humanism? What are the cultural con­ tours of the human at work here? How do our cultural frames for thin ng the human set limits on the kinds of losses we can avow as loss? After all, if someone is lost, and that person is not someone, then what and where is the loss, and how does mourning take place? 
 
 32
 
@@ -92,7 +92,7 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 35
 
->There will be no public act of grieving (said Creon in Antigone). If there is a 'discourse,' it is a silent and melancholic one in which there have been no lives, and no losses; there has been no common bodily condition, no vulnerability that se es as the basis for an appre­ hension of our commonality; and there has been no sundering of that commonality. None of this takes place on the order of the event. None of this takes place. In the silence of the newspaper, there was no event, no loss, and this failure of recognition is mandated through an identification with those who identify with the perpetrators of that violence. 
+>There will be no public act of grieving (said Creon in Antigone). If there is a 'discourse,' it is a silent and melancholic one in which there have been no lives, and no losses; there has been no common bodily condition, no vulnerability that serves as the basis for an apprehension of our commonality; and there has been no sundering of that commonality. None of this takes place on the order of the event. None of this takes place. In the silence of the newspaper, there was no event, no loss, and this failure of recognition is mandated through an identification with those who identify with the perpetrators of that violence. 
 
 36
 
@@ -104,11 +104,11 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 38
 
->The violence that we inflict on others is only-and always-selectively brought into public view. We now see that the national border was more permeable than we thought. Our general response is anxiety, rage; a radical desire for security, a shoring-up of the borders against what is perceived as alien; a heightened surveillance of Arab peoples and anyone who looks vaguely Arab in the dominant racial imaginary, anyone who looks like someone you once knew who was of Arab descent, or who you thought wa  ften citizens, it turns out, often Sikhs, often Hindus, even sometimes Israelis, especially Sephardim, often Arab-Americans, recent arrivals or those who have been in the US for decades. 
+>The violence that we inflict on others is only-and always-selectively brought into public view. We now see that the national border was more permeable than we thought. Our general response is anxiety, rage; a radical desire for security, a shoring-up of the borders against what is perceived as alien; a heightened surveillance of Arab peoples and anyone who looks vaguely Arab in the dominant racial imaginary, anyone who looks like someone you once knew who was of Arab descent, or who you thought was—often citizens, it turns out, often Sikhs, often Hindus, even sometimes Israelis, especially Sephardim, often Arab-Americans, recent arrivals or those who have been in the US for decades. 
 
 39
 
->The result is that an amorphous racism abounds, rationalized by the claim of 'self-defense.' A generalized panic works in tandem with the shoring-up of the sovereign state and the suspension of civil liberties. Indeed, when the alert goes out, every member of the popu­ lation is asked to become a 'foot soldier' in Bush's army. The loss of First World presumption is the loss of a certain horizon of experience, a certain sense of the world itself as a national entitlement. 
+>The result is that an amorphous racism abounds, rationalized by the claim of 'self-defense.' A generalized panic works in tandem with the shoring-up of the sovereign state and the suspension of civil liberties. Indeed, when the alert goes out, every member of the population is asked to become a 'foot soldier' in Bush's army. The loss of First World presumption is the loss of a certain horizon of experience, a certain sense of the world itself as a national entitlement. 
 
 39
 
@@ -128,11 +128,11 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 46
 
->We could have several engaged intellectual debates going on at the same time and  nd ourselves joined in the fight against violence, without having to agree on many epistemological issues. We could disagree on the status and character of modernity and yet find ourselves joined in asserting and defending the rights of indigenous women to health care, reproductive technology, decent wages, physical protection, cultural rights, freedom of assembly. If you saw me on such a protest line, would you wonder how a postmodernist was able to muster the necessary 'agency' to get there today? I doubt it. You would assume that I had walked or taken the subway! By the same token, various routes lead us into politics, various stories bring us onto the street, various kinds of reasoning and belief. We do not need to ground ourselves in a single model of communication, a single model of reason, a single notion of the subject before we are able to act. Indeed, an international coalition of feminist activists and thinkers-a coalition that affirms the thinking of activists and the activism of thinkers and refuses to put them into distinctive categories that deny the actual complexity of the lives in question­ will have to accept the array of sometimes incommensurable epistemological and political beliefs and modes and means of agency that bring us into activism. 
+>We could have several engaged intellectual debates going on at the same time and find ourselves joined in the fight against violence, without having to agree on many epistemological issues. We could disagree on the status and character of modernity and yet find ourselves joined in asserting and defending the rights of indigenous women to health care, reproductive technology, decent wages, physical protection, cultural rights, freedom of assembly. If you saw me on such a protest line, would you wonder how a postmodernist was able to muster the necessary 'agency' to get there today? I doubt it. You would assume that I had walked or taken the subway! By the same token, various routes lead us into politics, various stories bring us onto the street, various kinds of reasoning and belief. We do not need to ground ourselves in a single model of communication, a single model of reason, a single notion of the subject before we are able to act. Indeed, an international coalition of feminist activists and thinkers-a coalition that affirms the thinking of activists and the activism of thinkers and refuses to put them into distinctive categories that deny the actual complexity of the lives in question­ will have to accept the array of sometimes incommensurable epistemological and political beliefs and modes and means of agency that bring us into activism. 
 
 48
 
->It is not because we are reasoning beings that we are connected to one another, but, rather, because we are exposedto one another, requiring a recognition that does not substitute the recognizer for the recognized. 
+>It is not because we are reasoning beings that we are connected to one another, but, rather, because we are exposed to one another, requiring a recognition that does not substitute the recognizer for the recognized. 
 
 48
 
@@ -144,6 +144,6 @@ Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://
 
 49
 
->For if I am confounded by you, then you are already of me, and I am nowhere without you. I cannot muster the 'we' except by  finding the way in which I am tied to 'you,' by trying to translate but  finding that my own language must break up and yield if I am to know you. You are what I gain through this disorientation and loss. This is how the human comes into being, again and again, as that which we have yet to know. 
+>For if I am confounded by you, then you are already of me, and I am nowhere without you. I cannot muster the 'we' except by finding the way in which I am tied to 'you,' by trying to translate but finding that my own language must break up and yield if I am to know you. You are what I gain through this disorientation and loss. This is how the human comes into being, again and again, as that which we have yet to know. 
 
-49 
+49
