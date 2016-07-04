@@ -46,11 +46,11 @@ Orientalism by [Edward Said](https://en.wikipedia.org/wiki/Edward_Said) ([Amazon
 
 86
 
->what would happen as a continuing legacy of the common Occidental mission to the Orient—despite inter-European squabbling, indecent competition, or outright war—would be the creation of new projects, new visions, new enterprises combining additional parts of the old Orient with the conquering European spirit. After Napoleon, then, the very language of Orientalism changed radically. Its descriptive realism was upgraded and became not merely a style of representation but a language, indeed a means of creation. Along with the langues meres, as those forgotten dormant sources for the modern European demotics were entitled by Antoine Fabre d'Olivet, the Orient was reconstructed, re- assembled, crafted, in short, born out of the Orientalists' efforts. The Description became the master type of all further efforts to bring the Orient closer to Europe, thereafter to absorb it entirely and— centrally important—to cancel, or at least subdue and reduce, its strangeness and, in the case of Islam, its hostility. For the Islamic Orient would henceforth appear as a category denoting the Orientalists' power and not the Islamic people as humans nor their history as history.
+>What would happen as a continuing legacy of the common Occidental mission to the Orient—despite inter-European squabbling, indecent competition, or outright war—would be the creation of new projects, new visions, new enterprises combining additional parts of the old Orient with the conquering European spirit. After Napoleon, then, the very language of Orientalism changed radically. Its descriptive realism was upgraded and became not merely a style of representation but a language, indeed a means of creation. Along with the langues meres, as those forgotten dormant sources for the modern European demotics were entitled by Antoine Fabre d'Olivet, the Orient was reconstructed, reassembled, crafted, in short, born out of the Orientalists' efforts. The Description became the master type of all further efforts to bring the Orient closer to Europe, thereafter to absorb it entirely and— centrally important—to cancel, or at least subdue and reduce, its strangeness and, in the case of Islam, its hostility. For the Islamic Orient would henceforth appear as a category denoting the Orientalists' power and not the Islamic people as humans nor their history as history.
 
 87
 
->such texts can create not only knowledge but also the very reality they appear to describe. In time such knowledge and reality produce a tradition, or what Michel Foucault calls a discourse, whose material presence or weight, not the originality of a given author, is really responsible for the texts produced out of it.
+>Such texts can create not only knowledge but also the very reality they appear to describe. In time such knowledge and reality produce a tradition, or what Michel Foucault calls a discourse, whose material presence or weight, not the originality of a given author, is really responsible for the texts produced out of it.
 
 95
 
@@ -76,7 +76,7 @@ Orientalism by [Edward Said](https://en.wikipedia.org/wiki/Edward_Said) ([Amazon
 
 >A modern professional terminology and practice were created whose existence dominated discourse about the Orient, whether by Orientalists or non-Orientalists.
 
-Marx example, 156
+156 (see for Marx example)
 
 >On the one hand, Orientalism acquired the Orient as literally and as widely as possible; on the other, it domesticated this knowledge to the West, filtering it through regulatory codes, classifications, specimen cases, periodical reviews, dictionaries, grammars, commentaries, editions, translations, all of which together formed a simulacrum of the Orient and reproduced it materially in the West, for the West.
 
