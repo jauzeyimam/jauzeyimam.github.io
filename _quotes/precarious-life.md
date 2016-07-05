@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Judith Butler&#58 Precarious Life
+title: "Judith Butler - Precarious Life: The Powers of Mourning and Violence"
 permalink: /quotes/judith-butler-precarious-life
 exclude: true
 ---

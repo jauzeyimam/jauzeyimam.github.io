@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Edward Said&#58 Orientalism
+title: "Edward Said - Orientalism"
 permalink: /quotes/edward-said-orientalism
 exclude: true
 ---

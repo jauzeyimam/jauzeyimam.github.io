@@ -1,0 +1,12 @@
+---
+layout: page
+title: Quotes
+permalink: /quotes/
+---
+<ul class="posts">
+{% for quote in site.quotes %}
+  <li>
+    <a href="{{ quote.url }}">{{ quote.title }}</a>
+  </li>
+{% endfor %}
+</ul>

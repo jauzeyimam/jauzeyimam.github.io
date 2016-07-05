@@ -15,3 +15,5 @@ github_username:
 # Build settings
 markdown: kramdown
 permalink: pretty
+collections: 
+- quotes
