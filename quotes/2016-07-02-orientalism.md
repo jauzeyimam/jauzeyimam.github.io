@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: Edward Said&#58 Orientalism
 permalink: /quotes/edward-said-orientalism
+exclude: true
 ---
 
 Orientalism by [Edward Said](https://en.wikipedia.org/wiki/Edward_Said) ([Amazon](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X), [Public Library](http://www.worldcat.org/title/orientalism/oclc/4831769))

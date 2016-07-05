@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: Judith Butler&#58 Precarious Life
 permalink: /quotes/judith-butler-precarious-life
+exclude: true
 ---
 
 Precarious Life: The Powers of Mourning and Violence by [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler) ([Amazon](https://www.amazon.com/Precarious-Life-Powers-Mourning-Violence/dp/1844675440), [Public Library](http://www.worldcat.org/title/precarious-life-the-powers-of-mourning-and-violence/oclc/53398140))
