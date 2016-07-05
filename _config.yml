@@ -16,4 +16,5 @@ github_username:
 markdown: kramdown
 permalink: pretty
 collections: 
-- quotes
+  quotes:
+    output: true
