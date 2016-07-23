@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "93: Surah Duha"
+title: "93 | Surah Duha: The Morning Brightness"
 permalink: /quran/93-duha
 exclude: true
 ---
+
+[Link to Surah](http://al-quran.info/#93)
 
 ### Context
 
