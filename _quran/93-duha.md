@@ -9,7 +9,7 @@ exclude: true
 
 ### Context
 
-When studying the Quran there's two aspects:
+When studying the Quran there's two aspects to note:
 
 1. Immediate need for that revelation in the time of the Prophet (SAW) 
 2. Future application of those verses.  
