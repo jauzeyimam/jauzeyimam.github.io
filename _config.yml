@@ -18,3 +18,5 @@ permalink: pretty
 collections: 
   quotes:
     output: true
+  quran:
+    output: true

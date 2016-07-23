@@ -1,0 +1,12 @@
+---
+layout: page
+title: Quranic Reflections
+permalink: /quran/
+---
+<ul class="posts">
+{% for quran in site.quran %}
+  <li>
+    <a href="{{ quran.url }}">{{ quran.title }}</a>
+  </li>
+{% endfor %}
+</ul>
