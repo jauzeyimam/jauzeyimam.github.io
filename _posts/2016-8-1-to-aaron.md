@@ -26,7 +26,7 @@ As Jeremy Hammond wrote from solitary confinement:
 
 Your life showed me the vast potentials, and your words made me believe I could too.
 
-Even now, writing this, I cry at our collective loss, at your absence. 
+Even now, writing this, I weep at our collective loss, at your absence. 
 
 But why am I writing this?  Why now?  I can't be sure, but I think the answer has two parts.  First, to understand our grief is to understand the things that inextricably bind us to each other, and I want to begin understanding the ways I grieve. But I also think I write in a hope that this space—composed in the Markdown you helped create—is another positive step in my attempts to trace your footsteps, Said's footsteps, and mark my own.   
 
