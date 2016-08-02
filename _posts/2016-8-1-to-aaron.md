@@ -16,7 +16,7 @@ Judith Butler mentions in [*Precarious Lives*](http://www.jauzey.com/quotes/judi
 
 >If I lose you, under these conditions, then I not only mourn the loss, but I become inscrutable to myself. Who ‘am’ I, without you? When we lose some of these ties by which we are constituted, we do not know who we are or what to do. On one level, I think I have lost ‘you’ only to discover that ‘I’ have gone missing as well. At another level, perhaps what I have lost ‘in’ you, that for which I have no ready vocabulary, is a relationality that is composed neither exclusively of myself nor you, but is to be conceived as the tie by which those terms are differentiated and related.
 
-I think more on how my loss, our loss, of you unbound me, us.  I still don't have the words for it—even my pronouns remain obscured, confused—but I'll attempt some meager ones here:
+I think more on how my loss, our loss, of you unbound me, us—as well as what grew from that loss.  Grief unbinds and binds. I still don't have the words for it all—even my pronouns remain obscured, confused—but I'll attempt some meager ones here:
 
 I never met you.  How could I know you for you to become part of "I"?  Yet you taught me so much.  I knew you as a person whose every action, from beginning to end, reflected the thing inside myself that was constantly struggling with the world, that not only wanted more for it, better for it, but wanted to actively work toward that better.  I'd followed you online for years, reading your posts, musing, hopeful, anxious to follow in your steps, perhaps even one day meet you.  [Raw Thought](http://www.aaronsw.com/weblog/) inspired this nascent space.  And your life showed me it was possible—not only to be a lefty in the rigidly libertarian space that's the tech industry (for another post), but also one of the few technologists (keeping your [non-programmer's apology](http://www.aaronsw.com/weblog/nonapology) in mind) who saw the world beyond the strict terms of technology.  You saw people beyond the pale of capitalism, and that was and is rare; and it will always be beautiful.  
 
@@ -26,8 +26,8 @@ As Jeremy Hammond wrote from solitary confinement:
 
 Your life showed me the vast potentials, and your words made me believe I could too.
 
-Even now, writing these words, I cry at our collective loss, at your absence. 
+Even now, writing this, I cry at our collective loss, at your absence. 
 
-So why am I writing this?  Why now?  I can't be sure, but I think it's in a hope that this space—written in the Markdown you helped create—is another positive step in my attempts to trace your footsteps, Said's footsteps, and mark my own.  
+But why am I writing this?  Why now?  I can't be sure, but I think it's in a hope that this space—written in the Markdown you helped create—is another positive step in my attempts to trace your footsteps, Said's footsteps, and mark my own.  
 
 Thank you for everything, Aaron. Godspeed and rest well, forever in power. I, we, will carry the dust from your footsteps a little further yet, inshaAllah.
