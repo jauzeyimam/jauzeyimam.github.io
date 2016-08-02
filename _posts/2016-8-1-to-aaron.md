@@ -4,7 +4,7 @@ title: To Aaron
 ---
 >Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of our own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
 
-Sir Tim Berners-Lee, January 11, 2013
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir Tim Berners-Lee, January 11, 2013
 
 I remember telling my friend Lauren, years ago, sometime in February 2013, "I just went through his whole Twitter profile.  I can't believe he's gone.  I think I'm becoming a little obsessive."  She agreed with me.  A few weeks later, crying to my brother—newly married the day you died—as I dropped him off at the airport.  Through the tears I unsuccessfully tried to explain why I cried; I was a mess.  As we pulled into the terminal, I somehow got out that quotation of yours about doing the important things, and I asked my brother—how were you supposed to work on the important things now? How were you going to do all these things now that you were gone?  My brother looked at me and said, “We have to follow in his footsteps.  You have to take up the mantle.”
 
