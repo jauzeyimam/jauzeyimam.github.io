@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "93 | Surah Duha: The Morning Brightness"
-permalink: /quran/93-duha
+title: "93 | Surah Al-Duha: The Morning Brightness"
+permalink: /quran/93-al-duha
 exclude: true
 ---
 
