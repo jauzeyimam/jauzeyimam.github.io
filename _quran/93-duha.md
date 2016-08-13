@@ -14,7 +14,7 @@ When studying the Quran there's two aspects to note:
 1. Immediate need for that revelation in the time of the Prophet (SAW) 
 2. Future application of those verses.  
 
-Revelation, wahi, was a rare event even in the life of the Prophet, however the desire for wahi in the Prophet was so intense such that when the the connection was lost, even for a few days (most tafsir mention it was either 12, 40, or 50 days without wahi), he felt incredible anxiety.  Couple this built-in wahi based anxiety with the tremendous external pressure the Prophet was facing with respect to revelation from the people of Mecca.  And couple to *that* the fear that the Prophet had displeased his lord and had therefore been forsaken.
+The desire for wahi—revelation—in the Prophet was so intense such that when the the connection was lost, even for a few days (most tafsir mention the specific length after which this surah was revealed was either 12, 40, or 50 days without wahi), he felt incredible anxiety.  Add to this based anxiety with the tremendous external pressure the Prophet was facing with respect to revelation from the people of Mecca, and add to *that* the fear that the Prophet had displeased his lord and had therefore been forsaken—in conclusion, the Prophet was under incredible stress just prior to this revelation.
 
 ### Verse 1-3
 
