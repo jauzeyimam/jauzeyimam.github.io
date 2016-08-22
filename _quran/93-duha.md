@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "93 | Surah Duha: The Morning Brightness"
-permalink: /quran/93-duha
+title: "93 | Surah Al-Duha: The Morning Brightness"
+permalink: /quran/93-al-duha
 exclude: true
 ---
 
@@ -14,7 +14,7 @@ When studying the Quran there's two aspects to note:
 1. Immediate need for that revelation in the time of the Prophet (SAW) 
 2. Future application of those verses.  
 
-Revelation, wahi, was a rare event even in the life of the Prophet, however the desire for wahi in the Prophet was so intense such that when the the connection was lost, even for a few days (most tafsir mention it was either 12, 40, or 50 days without wahi), he felt incredible anxiety.  Couple this built-in wahi based anxiety with the tremendous external pressure the Prophet was facing with respect to revelation from the people of Mecca.  And couple to *that* the fear that the Prophet had displeased his lord and had therefore been forsaken.
+The desire for wahi—revelation—in the Prophet was so intense such that when the the connection was lost, even for a few days (most tafsir mention the specific length after which this surah was revealed was either 12, 40, or 50 days without wahi), he felt incredible anxiety.  Add to this based anxiety with the tremendous external pressure the Prophet was facing with respect to revelation from the people of Mecca, and add to *that* the fear that the Prophet had displeased his lord and had therefore been forsaken—in conclusion, the Prophet was under incredible stress just prior to this revelation.
 
 ### Verse 1-3
 
@@ -24,7 +24,7 @@ The first thing God does is remove the immediate and most major concern of the P
 
 The Surah then continues with another contrast; the literal verse reads "And the last shall be better for thee than the first." The first, this world, is seemingly of utmost importance to us *now* in our limited perspective, yet "the last" is what's ultimately the most important *for* us.  This is true for the life of the Prophet (SAW) where the beginning of his life, the first, was very different from his time as a Messenger toward the latter end of his life.  Also it's true for the different periods of Revelation itself, from during the time of Mecca at the first until the time of Medina at the end.  From poverty and oppression and the worst of all things to, in Medina, the rulership, not only to the Muslims, but to all the Medinians.  However it's finally true for the case of this life versus the Hereafter, the most common interpretation of this ayah.  Nobody can forecast the future, yet the Quran notes that the Last is better than the First (almost like a Quranic version of "This too shall pass" but far more optimistic).  What's even more interesting is the audience of this, quite literally, ultimately optimistic verse—those who are seeking the Quran's guidance.  Indicating the ultimate mercy of Allah (swt) this is fundamentally a prophecy upon those seeking guidance from this verse.  That's incredible.
 
-One of the other things that I noticed about ayat number four is that not only was this a prophecy but it was a prophecy made at a time when there was intense pressure upon the Prophet (SAW) when he was essentially fighing by himself and a small number of people against a whole tribe and the larger Arabia.  So this was an amazing prophecy at a time for when what this verse was promising was impossible to comprehend.  And it's amazing how it actually worked, how the end of his life was him succeeding in all of his ventures, how ten years after his death all of Arabia was under the sway of Islam and the Prophet (SAW) and challenging the two largest empires of the time (Byzantine and Persian).
+Another aspect to this ayat: not only was this a prophecy but it was a prophecy made at a time when there was intense pressure upon the Prophet (SAW) when he was essentially fighing by himself and a small number of people against a whole tribe and the larger Arabia.  So this was an amazing prophecy at a time for when what this verse was promising was impossible to comprehend.  And it's amazing how it actually worked, how the end of his life was him succeeding in all of his ventures, how ten years after his death all of Arabia was under the sway of Islam and the Prophet (SAW) and challenging the two largest empires of the time (Byzantine and Persian).
 
 ### Verse 6
 
