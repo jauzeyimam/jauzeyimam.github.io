@@ -39,3 +39,15 @@ Before he became a Messenger, he was already elevated intellectually and morally
 ### Verse 8
 
 The distinction between lost/guided and need/sufficiency is that between intellectual/moral and material.  The verse could refer either to wealth or simply satisfying the needs of the Prophet to further the message of Islam.
+
+### Verse 9
+
+The orphan, in a society, is the weakest and most vulnerable member of society—they require protection, support, and care to make it.  And in that way since the society as a whole needs to come together to care for an orphan, the care of the orphan reflects the character of society.  A society that cares for its orphans and treats them well is a sign of a good society; one that does not is a sign of a corrupt society. 
+
+### Verse 10
+
+Another symptom of a corrupt society is one that, once again, externalizes its own responsibilites onto its subjects and victims—to moralize the shortcomings of an individual and marginalize them from the very society that created them.  This ayat is a direct response to proclamations of "personal responsibility" for those struck by poverty—do not blame them and do not push them away (marginalization), rather it is our duty as a society to understand *our* responsibility in creating poverty and *our* responsibility to solve those issues.
+
+### Verse 11
+
+This verse grammatically reflects the previous two, however instead of being a negative command—to *not* do something—it's a positive one, a command to do, to replace the commandments against with one for.  In this sense it's also a proactive command to not just "not wrong" the orphan and "never chide" the beggar, but also to actively speak of Allah's blessings and fulfill the needs of those who don't have.  "Fahaddith" implies both doing and saying, to speak but speak truly and fully, to speak just before acting.  That action is not a personal action but a societal, a system of governance that takes into account the weakest, most indigent, most vulnerable among them.  Vulnerability isn't a sign of personal weakness, but societal.  
