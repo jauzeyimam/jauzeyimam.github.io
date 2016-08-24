@@ -12,3 +12,5 @@ Love, Longing, Intimacy, and Contentment; Book XXXVI of The Revival of Religious
 1
 
 > Love of God is the utmost goal among the stages and the supreme summit of the steps. There is no stage beyond the grasp of love that is not one of its fruits and one of its consequences, such as longing (*shawq*), intimacy (*uns*), contentment (*ridā*), and the like; nor is there prior to love any stage that is not preparatory to it, such as repentance (*tawba*), patience (*sabr*), and renunciation (*zuhd*), and the like. Attainment of the other stages is rare and yet, they are possible and hearts are not wholly without hope of them; but even the believe in love of God the Exalted is so scarce that one scholar even denies that it is possible. He states that love "has no meaning apart from persistent obedience to God the Exalted and that genuine love is inconceivable except between the same genus and species." When such as he deny love, they also deny intimacy and longing and the pleasure of secret colloquies (*munājāt*) and all the other concomitants and effects of love. For this reason it becomes necessary to lay the whole matter bare.
+
+2
