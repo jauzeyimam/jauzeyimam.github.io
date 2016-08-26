@@ -46,9 +46,9 @@ xi
 3
 
 >This tragic solitude of the human being facing the divine underlies the history of Western thought from Greek tragedy (with the central figure of the rebel Prometheus facing the Olympian gods) to existentialist and modern Christian interpretations as exemplified in the works of Søren Kierkegaard. The recurrence of the theme of the tragic trial of solitary faith in Western theology and philosophy has linked this reflection to questions of doubt, rebellion, guilt, and forgiveness and has thus naturally shaped the discourse on faith, trials, and mistakes.
->
+<br>
 >[...]
->
+<br>
 >[In contrast,] Quran Revelations tell the stories of the prophets, and in the course of this narration it fashions in the Muslim's heart a relationship to the Transcendent that continually insists on the permanence of communication through signs, inspirations, and indeed the very intimate presence of the One, so beautifully expressed in this verse of the Quran: "If My servants ask you concerning Me: I am indeed close [to them]. I respond to the prayer of every supplicant when he or she calls on Me." All the Messengers have, like Abraham and Muhammad, experienced the trial of faith and all have been, in the same manner, protected from themselves and their own doubts by God, His signs, and His word. Their suffering does not mean they made mistakes, nor does it reveal any tragic dimension of existence: it is, more simply, an initiation into humility, understood as a necessary stage in the experience of faith.
 
 6-7
