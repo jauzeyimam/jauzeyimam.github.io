@@ -38,3 +38,19 @@ Abba's story:
 I was reading a story about a person, Maulana Muhammad Ali, who was describing in his book about his teacher who was with him in Lucknow. There was one time he went to Pakistan to visit him, and his teacher was 90 years old. He watched him and saw that he was still able to get up at tahajjud, make wudu (cold water), and praying. He is still able to maintain his routine even when he is so fragile and weak. He couldn't believe it, so he asked him. The response he gave was 'When I was young and strong, I was able to do all these things with ease. My body was strong, my soul was weak. I really had to convince my soul that I should get up and do it. Now however, my body is weak but my soul is strong. It's easy to get up and do these things now because of that, however the doing part is harder because my body is weaker.' Allah makes it easy once you train your soul to doing these harder things. There's a long period of time that this man transformed and trained himself to being able to do these things, the physical and mental becoming spiritual.
 
 Everybody is destined to doing something and their actions gravitate them toward their ultimate destiny, entirely of their own choice. 
+
+### Verse 12-13
+
+God guides who He wills and misguides who He wills.  A more detailed discussion on why some are guided and some aren't details in the verses below.
+
+### Verse 14-End
+
+The reason why one person gives and the other person doesn't give is based on guidance—those who seek guidance will received it, and the one who doesn't will not.  Man gets what he strives for.  If someone strives for goodness, then Allah will make things easy for him to be good; and vice-versa[^1].
+
+How does this relate to whether people are good or bad?  Are people inherently one thing or the other—isn't that hard to believe?  Why are some people guided (into doing good) while others are not and persist in the evil?  What is good and evil?
+
+Part of it is focused around the question of this world vs the next.  This world is that of tests; those who struggle and strive toward guidance in those tests are geared toward admittance into the best of the next worlds. In that sense, people aren't inherently good or evil, they're just living in this world.  Everything that happens in this world is a test, all good and bad things—how people react to those tests, how they attempt to gain guidance or if they don't.  The struggle itself, against ourselves, against our temptations and desires and wishes (in this surah this is mostly focused on wealth and miserliness), defines "good" and "evil."  When God says that He guides who He wills, this is less about determinism and the lack of free will, but that the one who He guides is ultimately the one who *seeks guidance*, and only him or her.  God will not guide those who do not seek guidance, those who are so infatuated with themselves that they believe themselves superior or self-sufficient. In the words of this surah, the wretched are those who deny and turn away from God.  
+
+The most reverent are those who give wealth (ie deny their temptations) in the service of God—not for any favors, only for God. And for them God promises, in time, their satisfaction.
+
+[^1]: Refer to Study Quran, page 1524-5, footnote for ayat 15-21 to read the story of the Muslim with the date palm who refused to give his palm to the Prophet for a palm in paradise, and the other man who bought the palm for an exorbitant price (40 palms), and gave it to the Prophet—who gave it to a poor man and his children.  This story happened in Medinah; it's contested whether this surah was a Medinian surah, but commentators who believe it was a Medinian surah believe the entire surah was framed around this event. 
