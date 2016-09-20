@@ -41,10 +41,6 @@ Everybody is destined to doing something and their actions gravitate them toward
 
 ### Verse 12-13
 
-
-=======
-### Verse 12-13
-
 After describing the night, day, male and female, as well as what people strive for and the traits of the generous vs that of the miser—after all of this, God describes the ways in which he guides people.  God states that for Him, this world and the next world are the same since He created both; however, for humans, this world seems more important than the next because we can't know the next.  However if we reframe our understanding so that the next life is more important, much like what the Sahabah achieved, then both this life and the next are preserved and made best.  The sahaba received the proper share in this world and the akhira.
 
 God guides who He wills and misguides who He wills.  A more detailed discussion on why some are guided and some aren't details in the verses below.
@@ -60,4 +56,3 @@ Part of it is focused around the question of this world vs the next.  This world
 The most reverent are those who give wealth (ie deny their temptations) in the service of God—not for any favors, only for God. And for them God promises, in time, their satisfaction.
 
 [^1]: Refer to Study Quran, page 1524-5, footnote for ayat 15-21 to read the story of the Muslim with the date palm who refused to give his palm to the Prophet for a palm in paradise, and the other man who bought the palm for an exorbitant price (40 palms), and gave it to the Prophet—who gave it to a poor man and his children.  This story happened in Medinah; it's contested whether this surah was a Medinian surah, but commentators who believe it was a Medinian surah believe the entire surah was framed around this event. 
->>>>>>> 1ebd28fd485f56e2bb8715cd6de4f4eeda772b5d
