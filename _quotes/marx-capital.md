@@ -9,21 +9,21 @@ exclude: true
 
 #### The Two Factors of the Commodity: Use Value and Value (Substance of Value, Magnitude of Value)
 
->“The commodity is, first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind.”
+>The commodity is, first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind.
 
 >Every useful thing, for example, iron, paper, etc., may be looked at from the two points of view of quality and quantity. Every useful thing is a whole composed of many properties; it can therefore be useful in various ways. The discovery of these ways and hence of the manifold uses of things is the work of history.
 
 125
 
->“The usefulness of a thing makes it a use-value.”
+>The usefulness of a thing makes it a use-value.
 
->“It [the usefulness of a thing] is conditioned by the physical properties of the commodity, and has no existence apart from the latter.”
+>It [the usefulness of a thing] is conditioned by the physical properties of the commodity, and has no existence apart from the latter.
 
->“This property of a commodity is independent of the amount of labour required to appropriate its useful qualities.”
+>This property of a commodity is independent of the amount of labour required to appropriate its useful qualities.
 
 >The use-values of commodities provide the material for a special branch of knowledge, namely the commercial knowledge of commodities.
 
->“Exchange-value appears first of all as the quantitative relation, the proportion, in which use-value of one kind exchange for use-values of another kind. This relation changes constantly with time and place. Hence exchange-value that is inseparably connected with the commodity, inherent in it, seems a contradiction in terms. Let us consider the matter more closely.”
+>Exchange-value appears first of all as the quantitative relation, the proportion, in which use-value of one kind exchange for use-values of another kind. This relation changes constantly with time and place. Hence exchange-value that is inseparably connected with the commodity, inherent in it, seems a contradiction in terms. Let us consider the matter more closely.
 
 126
 
