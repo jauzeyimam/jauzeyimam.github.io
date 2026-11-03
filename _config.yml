@@ -1,17 +1,19 @@
 # Site settings
 title: Jauzey
-email: 
 description: "To see with eyes unclouded by hate"
 baseurl: ""
-url: "www.jauzey.com"
-twitter_username: 
-github_username:  
+url: "https://jauzey.com"
+github_username: jauzeyimam
 
-# Build settings
+# Build settings (GitHub Pages legacy build: no plugins beyond the defaults)
 markdown: kramdown
 permalink: pretty
-collections: 
+collections:
   quotes:
     output: true
   quran:
     output: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
