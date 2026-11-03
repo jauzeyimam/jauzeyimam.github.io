@@ -64,11 +64,6 @@ Two drafts to choose from once the numbers exist:
   logging; in three months there may be enough of my own successful local runs to try distillation.
 Either way, one earned image at most, and the ending points forward: what the next run is, by date.
 
-## 7. Disclosure line (his wording; see open question 3 in the writer model)
-
-Draft: "Muse, the agent that runs my farm, drafted the structure and pulled the numbers from its logs. The
-opinions and the mistakes are mine."
-
 ## Sources to link
 - LoRA Without Regret, Thinking Machines (2025-09-29): https://thinkingmachines.ai/blog/lora/
 - Research notes: notes/research/hom-233-tuning-concepts.md (40 sources); doc https://claude.ai/artifact/XQM39hy5PvMD7hrZzpTzAU
