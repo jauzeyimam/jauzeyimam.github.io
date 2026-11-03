@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm Jauzey. I build [Elective](https://github.com/jauzeyimam/elective), a tool that follows the money in
-US federal races so a local reporter can see who funds whom and how those officials vote. I keep a small
-homelab in Campbell, California, where an agent farm takes the tickets and I take the decisions. I read
-more than I write. This is where the raw thoughts go.
+I'm Jauzey. I lead architecture for GoDaddy Commerce as Director of Engineering, on the payments side.
+Before that I was a Principal Engineer at Poynt, where I built payouts. I studied electrical and computer
+engineering and Plan II at UT Austin.
 
-Some posts here are drafted with Muse, the agent that runs the farm. The opinions and the mistakes are mine.
+Outside work I build [Elective](https://github.com/jauzeyimam/elective), a tool that follows the money in
+US federal races so a local reporter can see who funds whom and how those officials vote. I read more than
+I write. This is where the raw thoughts go.
 
 The quotes pages hold passages from the books I keep returning to. The Quran pages are reflections from
 study, not scholarship.
