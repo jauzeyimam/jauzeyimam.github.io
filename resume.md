@@ -6,19 +6,19 @@ permalink: /resume/
 
 [Download the PDF](/assets/Jauzey_Imam_Resume.pdf)
 
-Campbell, CA (San Francisco Bay Area) · [jauzey.imam@gmail.com](mailto:jauzey.imam@gmail.com) · [LinkedIn](https://linkedin.com/in/jauzey-imam-34b62822) · [GitHub](https://github.com/jauzeyimam)
+San Francisco Bay Area · [jauzey.imam@gmail.com](mailto:jauzey.imam@gmail.com) · [LinkedIn](https://linkedin.com/in/jauzey-imam-34b62822) · [GitHub](https://github.com/jauzeyimam)
 
 ## Summary
 
-Engineering leader who has spent ten years making payment systems correct down to the cent: payouts, reconciliation, a payment facilitator built and certified layer by layer.
+Engineering leader across the full payments stack: terminal software and device fleets, acquirer integrations, a certified payment facilitator, and the ledger, payouts and reconciliation that settle billions of dollars a year. Builds systems that scale and stay correct to the cent.
 
 ## Experience
 
-**GoDaddy**, Commerce · San Francisco Bay Area · Feb 2021 to present
+**GoDaddy**, Commerce · Santa Clara, CA · Feb 2021 to present
 
-*Director of Engineering, Architecture* · Apr 2026 to present
-*Director of Engineering* · Apr 2023 to Apr 2026: payouts, ledger, accounting, treasury, reconciliation, pricing and reporting
-*Senior Engineering Manager* · Feb 2021 to Apr 2023
+*Director of Engineering*: Architecture · Apr 2026 to present
+*Director of Engineering*: Payouts, Pricing, Reconciliation, and Reporting · Apr 2023 to Apr 2026
+*Senior Engineering Manager*: Payouts · Feb 2021 to Apr 2023
 
 - Launched GoDaddy's payment facilitator as part of GoDaddy Payments in Oct 2021, eight months after the Poynt acquisition (Feb 2021); wrote, tested and certified every layer of the payfac system.
 - Led 20+ engineers across payout flows, the ledger, accounting, treasury and reconciliation for tens of thousands of merchants processing billions of dollars a year and millions in revenue.
@@ -41,14 +41,13 @@ Engineering leader who has spent ten years making payment systems correct down t
 
 - Combined Visa APIs into one REST platform for the Visa Developer Platform (Node.js, Java).
 
-Earlier: software engineering intern, eBay (Magento, X.Commerce), 2013 and 2014.
 
 ## Projects
 
-**Margin** · mrgn.sh
+**Margin** · [mrgn.sh](https://mrgn.sh)
 - Pages that people and AI agents publish, read and comment on together: section comments, an MCP server and OAuth so agents act as named actors with scoped, revocable delegated tokens, passkey sign-in.
 
-**Elective** · elective.fyi
+**Elective** · [elective.fyi](https://elective.fyi)
 - A journalistic tool for campaign money: map, table and graph views of the same FEC data, tracing any donor to the committees and candidates it funds, with data-driven election stories.
 
 ## Education
