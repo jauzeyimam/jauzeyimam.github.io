@@ -16,8 +16,8 @@ Engineering leader across the full payments stack: terminal software and device 
 
 **GoDaddy**, Commerce · Santa Clara, CA · Feb 2021 to present
 
-*Director of Engineering*: Architecture · Apr 2026 to present
-*Director of Engineering*: Payouts, Pricing, Reconciliation, and Reporting · Apr 2023 to Apr 2026
+*Director of Engineering*: Architecture · Apr 2026 to present<br>
+*Director of Engineering*: Payouts, Pricing, Reconciliation, and Reporting · Apr 2023 to Apr 2026<br>
 *Senior Engineering Manager*: Payouts · Feb 2021 to Apr 2023
 
 - Launched GoDaddy's payment facilitator as part of GoDaddy Payments in Oct 2021, eight months after the Poynt acquisition (Feb 2021); wrote, tested and certified every layer of the payfac system.
@@ -29,7 +29,7 @@ Engineering leader across the full payments stack: terminal software and device 
 
 **Poynt** (acquired by GoDaddy) · Palo Alto, CA · Nov 2015 to Feb 2021
 
-*Principal Software Engineer* · Oct 2019 to Feb 2021
+*Principal Software Engineer* · Oct 2019 to Feb 2021<br>
 *Software Engineer to Senior Staff Engineer* · Nov 2015 to Oct 2019
 
 - Led the architecture of Poynt's direct-to-merchant offering and its payouts team; architected the systems that move and reconcile merchant funds.
@@ -52,11 +52,11 @@ Engineering leader across the full payments stack: terminal software and device 
 
 ## Education
 
-**University of Texas at Austin** · 2010 to 2015
+**University of Texas at Austin** · 2010 to 2015<br>
 B.S. Electrical and Computer Engineering · B.A. Plan II Honors
 
 ## Skills
 
-Languages: Go, Java, Python, SQL, Android
-Payments: payment facilitation, payouts, reconciliation, acquirer and card-network integrations
+Languages: Go, Java, Python, SQL, Android<br>
+Payments: payment facilitation, payouts, reconciliation, acquirer and card-network integrations<br>
 AI: agentic development, MCP
